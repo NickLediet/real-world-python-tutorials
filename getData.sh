@@ -1,0 +1,1 @@
+curl https://raw.githubusercontent.com/adambom/dictionary/master/dictionary.json > dictionary.json
